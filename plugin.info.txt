@@ -1,0 +1,7 @@
+base   simpleplaygroundbanner
+author Jean-Philippe Moignez
+email  noway@gmail.com
+date   2023-01-25
+name   Simple Playground Banner Plugin
+desc   Le plugin "Simple Playground Banner" pour DokuWiki permet d'afficher automatiquement une bannière statique sur chaque page du namespace "brouillon"
+url    https://github.com/jpicam/Dokuwiki_SimplePlaygroundBanner
